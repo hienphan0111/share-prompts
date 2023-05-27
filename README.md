@@ -22,7 +22,7 @@
   </div>
    </br>
 
-# Ruby on Rails : Blog App project
+# Nextjs full-stack : share-prompt
 
 # 📗 Table of Contents
 
@@ -60,9 +60,9 @@ The Blog app will allow users create, show the post as well as the reader can in
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- Nextjs <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width=15px>
-- Reactjs <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" width=15px>
-- MongoDB <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width=15px>
+- Nextjs <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+- Reactjs <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+- MongoDB <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 
 <!-- Features -->
 
